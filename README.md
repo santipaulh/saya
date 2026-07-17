@@ -1,9 +1,10 @@
 # Saya CRM
 
-Un producto diseñado por Santiago Paul H. para automatizar y digitalizar negocios locales del Ecuador y sudamérica. Especialización en WhiteLabel.
+Un producto diseñado para automatizar y digitalizar negocios locales del Ecuador y sudamérica. Especialización en WhiteLabel.
 
 ### Contribuyentes
-- Brayan Landaeta S. - Diseño inicial de la APP móvil en Figma, apoyo personal inicial, inversor en infraestructura.
+- [Santiago Paul H.](https://santipaul.com/) - Fundador, programación de todo el fullstack, documentación en YouTube, gestión de marketing, cobranza.
+- [Brayan Landaeta S.](https://www.instagram.com/brayanlndta/) - Diseño inicial de la APP móvil en Figma, apoyo personal inicial, inversor en infraestructura.
 
 ## FullStack
 - Backend (API): **NestJS, PostgreSQL**
