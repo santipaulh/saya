@@ -2,6 +2,12 @@
 
 Todas las modificaciones importantes del proyecto serán documentadas aquí.
 
+## v0.1.2 - 2026-07-17
+### Added
+- GET `/auth/login`
+- GET `/auth/register`
+- GET `/auth/recover-password`
+
 
 ## v0.1.1 - 2026-07-17
 ### Added
