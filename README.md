@@ -1,45 +1,36 @@
-# Saya CRM
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Un producto diseñado para automatizar y digitalizar negocios locales del Ecuador y sudamérica. Especialización en WhiteLabel.
+## Getting Started
 
-### Contribuyentes
-- [Santiago Paul H.](https://santipaul.com/) - Fundador, programación de todo el fullstack, documentación en YouTube, gestión de marketing, cobranza, captación de clientes sudaméricanos.
-- [Brayan Landaeta S.](https://www.instagram.com/brayanlndta/) - Diseño inicial de la APP móvil en Figma, apoyo personal inicial, inversor en infraestructura, captación de clientes europeos.
+First, run the development server:
 
-## FullStack
-- Backend (API): **NestJS, PostgreSQL**
-- Backend (CRON): **Express REST API**
-- Frontend (CRM WEB): **NextJS**
-- Frontend (CRM LANDING): **NextJS**
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Features
-### Método de facturación
-- **Por contrato:**
-    - Supongamos un cliente pide xyz licencia y abc opciones
-    - Le habilitamos las funcionalidades con vigencia hasta terminar contrato
-    - Le cobramos por medio de contrato
-- **Por clientela independiente:**
-    - El cliente escoge la licencia
-    - El cliente agrega módulos verticales
-    - Se cobra a fin de mes la suma total, sin importar el tiempo de uso
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Licencias
-- Starter ($49/mes)
-    - 5 usuarios, 500 contactos, 1 WhatsApp, 1 Instagram, 1 Facebook
-- Premium ($79/mes)
-    - 50 usuarios, 5000 contactos, 5 WhatsApp, 5 Instagram, 5 Facebook
-- Enterprise ($147/mes)
-    - Todo ilimitado
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### Módulo horizontal
-- Inbox privada del local
-- Multi-Inbox de WhatsApp, Instagram, Facebook
-- Calendarios
-- Tickets
-- Sistema whitelabel
-- Workflows
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### Módulos verticales
-- Web Builder ($29/mes)
-- Odontología ($29/mes)
-- Veterinaria ($29/mes)
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
