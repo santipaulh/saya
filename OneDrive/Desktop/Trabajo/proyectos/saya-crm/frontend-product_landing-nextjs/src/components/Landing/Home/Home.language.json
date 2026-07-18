@@ -1,0 +1,184 @@
+{
+    "en": {
+        "sectionWhitelabel": {
+            "title": "Your Brand. Your Clients. Your Prices.",
+            "showCases": [
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 202842.png",
+                    "label": "WhatsApp, Instagram, FB"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 202940.png",
+                    "label": "Appointment Bookings"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203127.png",
+                    "label": "Manage your staff"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203227.png",
+                    "label": "Tickets for customers"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203336.png",
+                    "label": "Workflows"
+                }
+            ]
+        },
+        "sectionHero": {
+            "title": "Your <span class='text-red-500'>Partner</span> in <br class='hidden md:block' /> Software Development",
+            "subtitle": {
+                "1": "We build innovative tools for businesses",
+                "2": "that you can resell with your own brand."
+            }
+        },
+        "sectionFeatures": {
+            "title": "Powerful Integrations",
+            "subtitle": "Connect with your clients where they spend most of their time.",
+            "channelsName": {
+                "instagram": "Instagram",
+                "whatsapp": "Whatsapp",
+                "facebook": "Facebook",
+                "ai": "AI",
+                "workflows": "Workflows",
+                "calendars": "Calendars",
+                "tickets": "Tickets",
+                "dentists": "Dentists"
+            },
+            "channelsFriendlyText": {
+                "instagram": "For younger customers",
+                "whatsapp": "For loyal clients",
+                "facebook": "For boomers",
+                "ai": "To beat your competence",
+                "workflows": "To automate channels",
+                "calendars": "To book meetings",
+                "tickets": "For human-client interaction",
+                "dentists": "Specialized tools module"
+            }
+        },
+        "sectionSteps": {
+            "startInSteps": "Start in 3 steps.",
+            "steps": [
+                {
+                    "title": "First, brand as your Platform",
+                    "description": "Our platform becomes yours — branded, priced, and ready to go.",
+                    "image": "/images/landing-steps/en_1.png"
+                },
+                {
+                    "title": "Then, they'll pay you",
+                    "description": "You set the prices. You collect the profits.",
+                    "image": "/images/landing-steps/en_2.png"
+                },
+                {
+                    "title": "You're ready. Withdraw your earnings!",
+                    "description": "Withdraw your earnings and grow your Whitelabel SaaS business.",
+                    "image": "/images/landing-steps/en_3.png"
+                }
+            ]
+        },
+        "sectionCta": {
+            "title": "Ready to take the throne?",
+            "subtitle": "Resell our app as yours. Don’t wait for permission — or competition.",
+            "button": "Make it Happen"
+        },
+        "sectionTestimonials": {
+            "title": "Testimonials",
+            "subtitle": "Real businesses, real growth, real proof.",
+            "addMore": "Add more",
+            "readStudy": "Read this study",
+            "emptyMessage": "No study cases yet.",
+            "studyCases": []
+        }
+    },
+    "es": {
+        "sectionWhitelabel": {
+            "title": "Tu Marca. Tus Clientes. Tus Precios.",
+            "showCases": [
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 202842.png",
+                    "label": "Mensajes de WhatsApp, Instagram, FB"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 202940.png",
+                    "label": "Agenda citas, reservas, pacientes"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203127.png",
+                    "label": "Gestiona a tu equipo"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203227.png",
+                    "label": "Tickets de soporte con tus clientes"
+                },
+                {
+                    "src": "/images/showcase-wl-hero/Screenshot 2026-03-18 203336.png",
+                    "label": "Automatización por workflows"
+                }
+            ]
+        },
+        "sectionHero": {
+            "title": "Tu <span class='text-red-500'>Aliado</span> en <br class='hidden md:block' /> Desarrollo de Software",
+            "subtitle": {
+                "1": "Creamos herramientas innovadoras para negocios",
+                "2": "que puedes revender con tu propia marca."
+            }
+        },
+        "sectionFeatures": {
+            "title": "Integraciones Poderosas",
+            "subtitle": "Conecta con tus clientes donde más tiempo pasan.",
+            "channelsName": {
+                "instagram": "Instagram",
+                "whatsapp": "Whatsapp",
+                "facebook": "Facebook",
+                "ai": "IA",
+                "workflows": "Workflows",
+                "calendars": "Calendarios",
+                "tickets": "Tickets",
+                "dentists": "Dentistas"
+            },
+            "channelsFriendlyText": {
+                "instagram": "Para clientes jóvenes",
+                "whatsapp": "Para clientes fieles",
+                "facebook": "Para boomers",
+                "ai": "Por tu competencia",
+                "workflows": "Para automatizar",
+                "calendars": "Para agendar consultas",
+                "tickets": "Para interacción humano-cliente",
+                "dentists": "Módulo con herramientas especializadas"
+            }
+        },
+        "sectionSteps": {
+            "startInSteps": "Empieza en 3 pasos.",
+            "steps": [
+                {
+                    "title": "Primero, le pones tu marca",
+                    "description": "Nuestra plataforma se convierte en tuya — con tu marca, tus precios, lista para vender.",
+                    "image": "/images/landing-steps/es_1.png"
+                },
+                {
+                    "title": "Luego, tus clientes te pagarán",
+                    "description": "Tú decides los precios. Tú te llevas las ganancias.",
+                    "image": "/images/landing-steps/es_2.png"
+                },
+                {
+                    "title": "Listo, ¡Retira las ganancias!",
+                    "description": "Retira tus ganancias y haz crecer tu negocio SaaS de Marca Blanca.",
+                    "image": "/images/landing-steps/es_3.png"
+                }
+            ]
+        },
+        "sectionCta": {
+            "title": "¿Listo para tomar el trono?",
+            "subtitle": "Revende nuestra app como tuya. No esperes permiso ni competencia.",
+            "button": "Haz que suceda"
+        },
+        "sectionTestimonials": {
+            "title": "Testimonials",
+            "subtitle": "Negocios reales, crecimiento real, resultados medibles.",
+            "addMore": "Agregar más",
+            "readStudy": "Leer este estudio",
+            "emptyMessage": "Aún no hay casos de estudio.",
+            "studyCases": []
+        }
+    }
+}

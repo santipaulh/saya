@@ -1,0 +1,377 @@
+:root {
+  --background: #ffffff;
+  --foreground: #ffffff;
+}
+
+
+
+/* Tema Oscuro por defecto */
+
+html {
+  --rules-page-dashboard-instagram_color_1: #b72958;
+  --rules-page-dashboard-instagram_color_2: #ff256e;
+
+  --rules-page-dashboard-whatsapp_color_1: #9fff68;
+  --rules-page-dashboard-whatsapp_color_2: #5eff01;
+
+  --rules-page-dashboard-facebook_color_1: #5eb1ff;
+  --rules-page-dashboard-facebook_color_2: #0184ff;
+
+  --rules-page-dashboard-bk_brand_color_1: #ff5050;
+  --rules-page-dashboard-bk_brand_color_2: #ff0000;
+
+
+  --rules-page-dashboard-color-primary_1: #5865F2;
+  --rules-page-dashboard-color-primary_2: #4752C4;
+  --rules-page-dashboard-color-primary_3: #3C45A5;
+  --rules-page-dashboard-color-primary_4: rgba(60, 69, 165, 0.28);
+  --rules-page-dashboard-color-secondary_1: #4f545c;
+  --rules-page-dashboard-color-secondary_2: #686d73;
+  --rules-page-dashboard-color-secondary_3: #43474e;
+  --rules-page-dashboard-color-secondary_4: rgba(79, 84, 92, 0.28);
+
+  --rules-page-dashboard-color-danger_1: #ED4245;
+  --rules-page-dashboard-color-danger_2: #D83C3E;
+  --rules-page-dashboard-color-danger_3: #C53235;
+  --rules-page-dashboard-color-danger_4: rgba(197, 50, 53, 0.28);
+  --rules-page-dashboard-color-success_1: #52C41A;
+  --rules-page-dashboard-color-success_2: #389E0D;
+  --rules-page-dashboard-color-success_3: #237804;
+  --rules-page-dashboard-color-success_4: rgba(60, 165, 95, 0.28);
+  --rules-page-dashboard-color-warning_1: #FFC53D;
+  --rules-page-dashboard-color-warning_2: #FABE2C;
+  --rules-page-dashboard-color-warning_3: #E0A800;
+
+  --rules-page-dashboard-roounded_border_corners-1: 10px;
+  --rules-page-dashboard-roounded_border_corners-2: 20px;
+  --rules-page-dashboard-roounded_border_corners-3: calc(Infinity * 1px);
+
+  --rules-page-dashboard-background_1: #313338;
+  --rules-page-dashboard-background_2: #121212;
+  --rules-page-dashboard-background_3: #1e1f22;
+  --rules-page-dashboard-background_4: #282a2d;
+  --rules-page-dashboard-backdrop_1: #6b6b6b;
+  --rules-page-dashboard-backdrop_2: #ffffff;
+  --rules-page-dashboard-shadow_1: 0, 0, 0;
+  --rules-page-dashboard-shadow_2: 255, 255, 255;
+
+  --rules-page-dashboard-text_1: #ffffff;
+  --rules-page-dashboard-text_muted_1: #a3a6aa;
+}
+
+html.light-theme {
+  --rules-page-dashboard-instagram_color_1: #D81B60;
+  --rules-page-dashboard-instagram_color_2: #E91E63;
+  --rules-page-dashboard-instagram_color_3: #AD1457;
+  --rules-page-dashboard-instagram_color_4: #880E4F;
+  --rules-page-dashboard-whatsapp_color_1: #43A047;
+  --rules-page-dashboard-whatsapp_color_2: #66BB6A;
+  --rules-page-dashboard-whatsapp_color_3: #2E7D32;
+  --rules-page-dashboard-whatsapp_color_4: #1B5E20;
+  --rules-page-dashboard-whatsapp_color_5: #004D40;
+  --rules-page-dashboard-color-primary_1: #AEB8FF;
+  --rules-page-dashboard-color-primary_2: #99A6F0;
+  --rules-page-dashboard-color-primary_3: #8896D2;
+  --rules-page-dashboard-color-primary_4: rgba(136, 150, 210, 0.2);
+
+  --rules-page-dashboard-color-secondary_1: #aeb1b6;
+  --rules-page-dashboard-color-secondary_2: #b4b5b9;
+  --rules-page-dashboard-color-secondary_3: #AFB4BB;
+  --rules-page-dashboard-color-secondary_4: rgba(192, 196, 204, 0.2);
+
+  --rules-page-dashboard-color-danger_1: #FF9A9C;
+  --rules-page-dashboard-color-danger_2: #FF7A7C;
+  --rules-page-dashboard-color-danger_3: #E06466;
+
+  --rules-page-dashboard-color-success_1: #A5F583;
+  --rules-page-dashboard-color-success_2: #7FD95E;
+  --rules-page-dashboard-color-success_3: #65B63D;
+  --rules-page-dashboard-color-success_4: rgba(127, 217, 94, 0.2);
+
+  --rules-page-dashboard-color-warning_1: #FFE699;
+  --rules-page-dashboard-color-warning_2: #FFD566;
+  --rules-page-dashboard-color-warning_3: #E6C84D;
+
+  --rules-page-dashboard-background_1: #f8f8f8;
+  --rules-page-dashboard-background_2: #cccccf;
+  --rules-page-dashboard-background_3: #e0e0e0;
+  --rules-page-dashboard-background_4: #ffffff;
+
+
+
+  /* Backdrop Colors */
+  --rules-page-dashboard-backdrop_1: #9E9E9E;
+  --rules-page-dashboard-backdrop_2: #616161;
+
+  /* Shadow Effects */
+  --rules-page-dashboard-shadow_1: 255, 255, 255;
+  --rules-page-dashboard-shadow_2: 0, 0, 0;
+
+  /* Text Colors */
+  /* Texto principal, color oscuro */
+  --rules-page-dashboard-text_1: #3C4043;
+
+  /* Muted Text Colors */
+  --rules-page-dashboard-text_muted_1: #757575;
+}
+
+html.amoled-theme {
+  --rules-page-dashboard-instagram_color_1: #E1306C;
+  --rules-page-dashboard-instagram_color_2: #FF4081;
+  --rules-page-dashboard-instagram_color_3: #AD1457;
+  --rules-page-dashboard-instagram_color_4: #880E4F;
+
+  --rules-page-dashboard-whatsapp_color_1: #25D366;
+  --rules-page-dashboard-whatsapp_color_2: #00ff5e;
+  --rules-page-dashboard-whatsapp_color_3: #128C7E;
+  --rules-page-dashboard-whatsapp_color_4: #075E54;
+  --rules-page-dashboard-whatsapp_color_5: #005C4B;
+
+  --rules-page-dashboard-color-primary_1: #7289DA;
+  --rules-page-dashboard-color-primary_2: #5865F2;
+  --rules-page-dashboard-color-primary_3: #3C45A5;
+  --rules-page-dashboard-color-primary_4: rgba(88, 101, 242, 0.2);
+
+  --rules-page-dashboard-color-secondary_1: #4f545c;
+  --rules-page-dashboard-color-secondary_2: #686d73;
+  --rules-page-dashboard-color-secondary_3: #43474e;
+  --rules-page-dashboard-color-secondary_4: rgba(255, 255, 255, 0.08);
+
+  --rules-page-dashboard-color-danger_1: #FF4C4C;
+  --rules-page-dashboard-color-danger_2: #D83C3E;
+  --rules-page-dashboard-color-danger_3: #C53235;
+  --rules-page-dashboard-color-danger_4: rgba(255, 76, 76, 0.2);
+
+  --rules-page-dashboard-color-success_1: #00E676;
+  --rules-page-dashboard-color-success_2: #00C853;
+  --rules-page-dashboard-color-success_3: #00A152;
+  --rules-page-dashboard-color-success_4: rgba(0, 230, 118, 0.2);
+
+  --rules-page-dashboard-color-warning_1: #FFD740;
+  --rules-page-dashboard-color-warning_2: #FFC400;
+  --rules-page-dashboard-color-warning_3: #FFAB00;
+
+  --rules-page-dashboard-background_1: #000000;
+  --rules-page-dashboard-background_2: #000000;
+  --rules-page-dashboard-background_3: #0a0a0a;
+  --rules-page-dashboard-background_4: #141414;
+
+  --rules-page-dashboard-backdrop_1: #121212;
+  --rules-page-dashboard-backdrop_2: #1e1e1e;
+
+  --rules-page-dashboard-shadow_1: 0, 0, 0;
+  --rules-page-dashboard-shadow_2: 255, 255, 255;
+
+  --rules-page-dashboard-text_1: #ffffff;
+  --rules-page-dashboard-text_muted_1: #888888;
+}
+
+
+
+@import "tailwindcss";
+
+
+
+
+
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  font-family: "REM", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'REM';
+  src: url('/fonts/rem/REM-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
+
+
+@layer utilities {
+
+  /* Scrollbar Styles */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+  }
+
+  ::-webkit-scrollbar-corner {
+    background: transparent;
+  }
+
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #4b5563 transparent;
+  }
+}

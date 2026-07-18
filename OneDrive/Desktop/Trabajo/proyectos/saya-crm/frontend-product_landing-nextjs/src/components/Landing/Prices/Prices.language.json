@@ -1,0 +1,34 @@
+{
+    "en": {
+        "title": "Choose your plan",
+        "subtitle": "Plans designed for agencies of all sizes",
+        "startNow": "Resell",
+        "original": "Original price {{price}}/month",
+        "sellAt": "Resell at {{price}}",
+        "infinity": "Unlimited",
+        "planFeatures": {
+            "min_workflows": "Workflows",
+            "min_ai_chatbots": "AI Chatbots",
+            "min_whatsapp_accounts": "WhatsApp Acc.",
+            "min_instagram_accounts": "Instagram Acc.",
+            "min_messenger_accounts": "Messenger Acc.",
+            "min_calendars": "Calendars"
+        }
+    },
+    "es": {
+        "title": "Elige tu plan",
+        "subtitle": "Planes diseñados para agencias de todos los tamaños",
+        "original": "Precio original {{price}}/mes",
+        "sellAt": "Véndelo a {{price}}",
+        "startNow": "Revender",
+        "infinity": "Ilimitado",
+        "planFeatures": {
+            "min_workflows": "Workflows",
+            "min_ai_chatbots": "Chatbots con IA",
+            "min_whatsapp_accounts": "Acc. WhatsApp",
+            "min_instagram_accounts": "Acc. Instagram",
+            "min_messenger_accounts": "Acc. Messenger",
+            "min_calendars": "Calendarios"
+        }
+    }
+}

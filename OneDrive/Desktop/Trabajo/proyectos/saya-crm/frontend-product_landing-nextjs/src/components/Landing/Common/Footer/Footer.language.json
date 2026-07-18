@@ -1,0 +1,26 @@
+{
+  "en": {
+    "product": "Product",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "company": "Company",
+    "about": "About",
+    "legal": "Legal",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "followUs": "Follow us",
+    "rights": "All rights reserved."
+  },
+  "es": {
+    "product": "Producto",
+    "portfolio": "Portafolio",
+    "pricing": "Precios",
+    "company": "Compañía",
+    "about": "Nosotros",
+    "legal": "Legal",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "followUs": "Síguenos",
+    "rights": "© {{year}} Todos los derechos reservados."
+  }
+}
