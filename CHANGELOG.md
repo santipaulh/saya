@@ -2,6 +2,12 @@
 
 Todas las modificaciones importantes del proyecto serán documentadas aquí.
 
+## v0.1.3 - 2026-07-17
+### Added
+- Instalación de Angular para la carpeta `frontend-crm-angular`
+- Esquematización total del `src/auth/[...]` sub carpetas de services para su modularización y reutilización (e.g. para un futuro getClubUsers este método `src/club/club.service.ts` contiene la función requerida)
+- Type `ModuleResponse` refactorizado de botketing-crm previo `UtilsResponseType`
+
 ## v0.1.2 - 2026-07-17
 ### Added
 - GET `/auth/login`
