@@ -3,13 +3,13 @@
 Un producto diseñado para automatizar y digitalizar negocios locales del Ecuador y sudamérica. Especialización en WhiteLabel.
 
 ### Contribuyentes
-- [Santiago Paul H.](https://santipaul.com/) - Fundador, programación de todo el fullstack, documentación en YouTube, gestión de marketing, cobranza.
-- [Brayan Landaeta S.](https://www.instagram.com/brayanlndta/) - Diseño inicial de la APP móvil en Figma, apoyo personal inicial, inversor en infraestructura.
+- [Santiago Paul H.](https://santipaul.com/) - Fundador, programación de todo el fullstack, documentación en YouTube, gestión de marketing, cobranza, captación de clientes sudaméricanos.
+- [Brayan Landaeta S.](https://www.instagram.com/brayanlndta/) - Diseño inicial de la APP móvil en Figma, apoyo personal inicial, inversor en infraestructura, captación de clientes europeos.
 
 ## FullStack
 - Backend (API): **NestJS, PostgreSQL**
 - Backend (CRON): **Express REST API**
-- Frontend (CRM WEB): **Angular**
+- Frontend (CRM WEB): **NextJS**
 - Frontend (CRM LANDING): **NextJS**
 
 ## Features
