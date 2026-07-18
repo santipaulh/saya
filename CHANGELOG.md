@@ -2,6 +2,10 @@
 
 Todas las modificaciones importantes del proyecto serán documentadas aquí.
 
+## v0.1.4 - 2026-07-17
+### Removed
+- No usaremos Angular para el frontend; usaremos Next.js por agilidad del MVP
+
 ## v0.1.3 - 2026-07-17
 ### Added
 - Instalación de Angular para la carpeta `frontend-crm-angular`
